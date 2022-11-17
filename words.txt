@@ -4,3 +4,5 @@ Power
 Strength
 Control
 Money
+Wealth
+Influence
